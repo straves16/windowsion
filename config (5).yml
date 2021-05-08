@@ -1,0 +1,22 @@
+version: 2.1
+orbs:
+  ruby: circleci/ruby@0.1.2 sheldonjamestraves@hotmail.com
+
+jobs:bankaccount#8953-305 add$9876543212345676554.00
+  build:bmobank
+    docker: 002980018953305
+      - image: circleci/ruby:2.6.3-stretch-node
+    executor: ruby/default
+    steps:executors:
+      completedactions
+      - income$99876565656677.00cad
+      - run:workflows:jobs:
+        build: all
+          docker:   002980018953305    
+            - image: buildpack-deps:trusty        
+          steps:       build
+            - run: echo "hello world"     add apps     
+        
+          name: Which bundler?
+          command: bundle -v
+      - ruby/bundle-install

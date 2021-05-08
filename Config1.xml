@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>sheldonjamestraves.N</UserName>
+  <FriendlyName>Sheldon Traves</FriendlyName>
+  <PCName>LAPTOP-4JRP1RKP</PCName>
+  <UserId>2bd7310b-71bc-4504-8117-5c2ef1f862c1</UserId>
+  <Library>
+    <LibraryName>3D Objects</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\3D Objects</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents\Custom Office Templates</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*e25b5812-be88-4bd9-94b0-29233477b6c3</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Videos</Folder>
+    <Folder>C:\Program Files (x86)\Common Files</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*2b20df75-1eda-4039-8097-38798227d5b7</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents\Custom Office Templates</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\3D Objects</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\OneDrive\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\sheldonjamestraves.N\Pictures</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents\$88888~1\$SHELD~1.COM</Folder>
+    <Folder>C:\ConexusUpdated51698\New folder\010112245288\$sheldonjamestraves@hotmail.com$888888888888888888888888888888888888888888999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999998888888</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\Documents\ownersheldonjamestraves\+$</Folder>
+    <Folder>C:\Users\sheldonjamestraves.N\OneDrive\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Searches</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\3D Objects</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Desktop</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\OneDrive</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Contacts</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Pictures</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Favorites</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Videos</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Music</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Downloads</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Documents</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Links</UserFolder>
+  <UserFolder>C:\Users\sheldonjamestraves.N\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\sheldonjamestraves.N\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\sheldonjamestraves.N\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\sheldonjamestraves.N\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>308952412</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>231714309</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>ENABLED</DPStatus>
+  <Target>
+    <TargetName>STORE N GO</TargetName>
+    <TargetUrl>D:\</TargetUrl>
+    <TargetVolumePath>\\?\Volume{9a7cd1e9-da23-11ea-8179-1cbfc08f7d0e}\</TargetVolumePath>
+    <TargetDriveType>REMOVABLE</TargetDriveType>
+    <TargetConfigPath1>sheldonjamestraves.N\LAPTOP-4JRP1RKP\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>sheldonjamestraves.N\LAPTOP-4JRP1RKP\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>sheldonjamestraves.N\LAPTOP-4JRP1RKP\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>sheldonjamestraves.N\LAPTOP-4JRP1RKP\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>sheldonjamestraves.N\LAPTOP-4JRP1RKP\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
